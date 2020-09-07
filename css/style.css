@@ -1,0 +1,40 @@
+
+.titel
+{
+    font-size: 1.17rem;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.ahmed
+{
+    font-weight: bold;
+    color: #AAA;
+font-size: ;
+}
+
+.one
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    display: flex;
+    font-size: 1.5rem;
+    font-family: arial;
+    font-weight: bold;  
+    color: #333;
+}
+.aliier
+{
+    margin-left: 200px !important;
+}
+.lababa
+{
+    background-color: #EEE;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+}
+.footrtr
+{
+    color: #AAA;
+    font-size: 17px !important; 
+}
